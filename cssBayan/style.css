@@ -1,0 +1,71 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+}
+html, body {
+	background-color: #ffe4c4;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	object-fit: cover;
+}
+
+li {
+	list-style-type: none;
+}
+
+input {
+	display: none;
+}
+
+.container {
+	max-width: 70%;
+	margin: 5rem auto;
+}
+
+.css-bayan {
+	padding: 1rem 0;
+	cursor: pointer;
+}
+
+.memes-list__item {
+	font-size: 1.7rem;
+	font-weight: bold;
+	border-top: 2px solid #ad9c86;
+}
+
+.meme-item__title {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem 0;
+	color: #6380e0;
+	transition: color .5s ease-in-out;
+}
+
+.meme-item__img {
+	max-width: 40%;
+	margin: 0 auto;
+	padding-bottom: 1rem;
+}
+
+.fa-plus {
+	visibility: hidden;
+}
+
+.css-bayan:hover .fa-plus {
+	visibility: visible;
+}
+
+.css-bayan:hover .meme-item__title {
+	color: #000;
+	transition: color .5s ease-in-out;
+}
+
+li:nth-child(4) .fa-plus {
+	transform: rotate(135deg);
+}
