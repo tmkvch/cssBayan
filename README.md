@@ -1,7 +1,11 @@
-# [cssBayan](https://tmkvch18.github.io/cssBayan/cssBayan/index.html)
+# [cssBayan](https://tmkvch.github.io/cssBayan/cssBayan/index.html)
 
-Task description: https://github.com/DrDiman/CSS-Bayan-task
-Deploy link: https://tmkvch18.github.io/cssBayan/cssBayan/index.html
+---
+
+**Task description:** [CSS-Bayan-task](https://github.com/DrDiman/CSS-Bayan-task)  
+**Deploy link:** [cssBayan](https://tmkvch.github.io/cssBayan/cssBayan/index.html)
+
+---
 
 ### Implemented criteria
 - [x] Public repository with name "cssBayan" created: `5/5`
